@@ -5,7 +5,7 @@ app.use(cors());
 app.use(express.json());
 
 // ===== YAHAN APNI API KEY DAALO =====
-const OPENROUTER_KEY = 'sk-';
+const OPENROUTER_KEY = 'sk-yaha api key dalna hai';
 // ====================================
 
 const MODEL = 'deepseek/deepseek-chat-v3-5:free';
